@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<br>
 
 ### Hi there 👋
 My name is Linh Chu, and I am currently a MS. Business Analytics candidate at University of Southern California. Before grad school, I spent 3 years in performance marketing within the field of e-commerce & app marketing, where I enjoy crunching metrics along the conversion funnel to guide acquisition & retention campaign based on customer insights. So, naturally, I'm building upon my domain knowledge towards Marketing Science & Analytics.
