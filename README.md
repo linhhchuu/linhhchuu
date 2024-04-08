@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <br>
-### Hi there 👋
-My name is Linh Chu, and I am currently a MS. Business Analytics candidate at University of Southern California. Before grad school, I spent 3 years in performance marketing within the field of e-commerce & app marketing, where I enjoy crunching metrics along the conversion funnel to guide acquisition & retention campaign based on customer insights. So, naturally, I'm building upon my domain knowledge towards Marketing Science & Analystics.<br>
 
-- 🌱 I'm currently working on my data portfolio on user cohort analysis, customer lifetime value prediction to marketing mix modeling.
-<br>
+### Hi there 👋
+My name is Linh Chu, and I am currently a MS. Business Analytics candidate at University of Southern California. Before grad school, I spent 3 years in performance marketing within the field of e-commerce & app marketing, where I enjoy crunching metrics along the conversion funnel to guide acquisition & retention campaign based on customer insights. So, naturally, I'm building upon my domain knowledge towards Marketing Science & Analytics.
