@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋
-My name is Linh Chu, and I am currently a MS. Business Analytics candidate at University of Southern California. Before grad school, I spent 3 years in performance marketing within the field of e-commerce & app marketing, where I enjoy crunching metrics along the conversion funnel to guide acquisition & retention campaign based on customer insights. Right now, I'm building upon my domain knowledge towards Marketing Science & Analytics.
+I am currently doing my masters in Business Analytics at University of Southern California. 
+
+- 💡 My background is in digital marketing and I really enjoy learning about applying statistics and analytics techniques to support data in launching campaigns and products. I spent 3 years in paid media within the field of e-commerce & app marketing, where I went through roles in ad operations and planning, and ended up enjoying the analytics work the most. 
+
+- 🌱 Right now, I'm working on some projects on Marketing and Product Analytics.
